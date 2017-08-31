@@ -46,8 +46,7 @@ system</a>.
  * Acceptance notification: TBD <!--July 26, 2017 (AoE)-->
 
 <h4>Posters Chair</h4>
-
- * Abhinav Bhatele, Lawrence Livermore National Laboratory
+Dong Li, University of California, Merced
 
 Complete posters committee list is available <a
 href="https://cluster2018.github.io/committees">here</a>.

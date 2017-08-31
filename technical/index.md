@@ -11,8 +11,9 @@ header:
    permalink: "/contact/"
 ---
 
-IEEE Cluster 2018 is the 20th edition of the IEEE Cluster conference series,
-organized in cooperation with SIGHPC.<br>
+IEEE Cluster 2018 is the 20th edition of the IEEE Cluster conference series
+<!--organized in cooperation with SIGHPC.-->
+<br>
 
 Clusters are the primary architecture for building today's rapidly evolving
 cloud and HPC infrastructures, and are used to solve some of the most complex

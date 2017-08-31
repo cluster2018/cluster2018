@@ -11,12 +11,12 @@ header:
    permalink: "/contact/"
 ---
 
+TBD
+
 <!--
-
-
-<b>IMPORTANT: Applications will be reviewed starting TBD <!--June 30, 2017-->. Advisor’s
+<b>IMPORTANT: Applications will be reviewed starting June 30, 2017. Advisor’s
 endorsements will be requested once the review process has started.
-Notifications will be sent starting TBD <!--August 6, 2017-->.</b>
+Notifications will be sent starting August 6, 2017.</b>
 
 <h3>Why a Mentoring Program at IEEE Cluster 2018?</h3>
 
@@ -64,14 +64,14 @@ submission system</a>.
 
 <h2>Important Dates</h2>
 
-Applications will be reviewed <b>TBD <!--starting June 30, 2017--></b>.
+Applications will be reviewed <b> starting June 30, 2017</b>.
 
 Travel awards for students in USA institutions in the amount of up to <b>$1,000</b>
 will be assigned on a first-come, first-serve basis until completion of the
 available funding.
 
 <b>We will accept applications  for the student mentoring program with NSF
-travel support (when applicable) until TBD<!--August 1st--> (deadline for early
+travel support (when applicable) until August 1st (deadline for early
 registration).  Applications submitted after Aug 1st will be still considered
 for the student mentoring program but will not be considered for travel
 support. </b>

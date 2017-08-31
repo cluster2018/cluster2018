@@ -11,6 +11,8 @@ header:
    permalink: "/contact/"
 ---
 
+<!--
+
 
 <b>IMPORTANT: Applications will be reviewed starting TBD <!--June 30, 2017-->. Advisor’s
 endorsements will be requested once the review process has started.
@@ -78,12 +80,10 @@ support. </b>
 <br>
 
 <h4>Student Mentoring Chair:</h4>
-<li>TBD</li>
-<!--<li>Kenneth Kent, University of New Brunswick (Canada)</li>-->
+<li>Kenneth Kent, University of New Brunswick (Canada)</li>
 
 <h4>Student Travel Award Chair:</h4>
-<li>TBD</li>
-<!--<li>Michela Taufer University of Delaware (USA)</li>-->
-
+<li>Michela Taufer University of Delaware (USA)</li>
+-->
 
 

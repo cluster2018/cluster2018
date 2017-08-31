@@ -43,7 +43,7 @@ system</a>.
 <h3>Important Dates</h3>
 
  * <b>Submission deadline (extended): TBD <!--July 5, 2017 (AoE)--></b>
- * Acceptance notification: TBD <!--July 26, 2017 (AoE)--
+ * Acceptance notification: TBD <!--July 26, 2017 (AoE)-->
 
 <h4>Posters Chair</h4>
 

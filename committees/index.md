@@ -15,6 +15,7 @@ header:
 
 ## General Co-Chairs
 Dimitrios Nikolopoulos, Queen’s University Belfast
+
 Bronis R de Supinski, Lawrence Livermore National Laboratory
 
 ## Technical Program
@@ -41,8 +42,11 @@ Hans Vandierendonck, Queen’s University Belfast
 
 ### Publicity Co-Chairs 
 Antoniu Pop, University of Manchester
+
 Brett Becker, University College Dublin
+
 Rong Ge, Clemson University
+
 Guangmin Tan, Chinese Academy of Sciences
 
 ### Student Travel Grants Chair
@@ -50,6 +54,7 @@ Amanda Randles, Duke University
 
 ### Sponsors Co-Chairs 
 David Gregg, Trinity College Dublin
+
 Angelos Bilas, FORTH-ICS and University of Crete
 
 ### Web Chair 
@@ -61,6 +66,7 @@ Giorgis Georgakoudis, Queen’s University Belfast
 
 ### Area 1: Application, Algorithms, and Libraries
 TBD
+
 <!--
 <b>Chair:</b> Michela Taufer, University of Delaware, USA<br>
 <b>Co-Chair:</b> Aparna Chandramowlishwaran, University of California, Irvine<br>
@@ -115,8 +121,10 @@ Bora Ucar, ENS-Lyon, France<br>
 R. (Vaidy) Vaidyanathan, Louisiana State University, USA<br>
 Rio Yokota, Tokyo Institute of Technology, Japan<br>
 -->
+
 ### Area 2: Architecture, Network/Communications, and Management
 TBD
+
 <!--
 <b>Chair:</b> Frank Mueller, North Carolina State University, USA<br>
 
@@ -142,6 +150,7 @@ Huiyang Zhou, NCSU, USA<br>
 
 ### Area 3: Programming and System Software
 TBD
+
 <!--
 <b>Chair:</b> Kenjiro Taura, University of Tokyo, Japan<br>
 
@@ -180,6 +189,8 @@ Mohamed Wahib, AICS Riken, Japan<br>
 
 
 ### Area 4: Data, Storage, and Visualization
+TBD
+
 <!--
 <b>Chair:</b> Maria Pérez, Universidad Politécnica de Madrid, Spain<br>
 <b>Co-Chair:</b> Robert Sisneros, UIUC, USA<br>
@@ -218,8 +229,8 @@ Jon Woodring,  Los Alamos National Lab, USA<br>
 
 ## Posters Committee
 TBD
-<!--
 
+<!--
 Sadaf Alam, Swiss National Supercomputing Center, Switzerland<br>
 Michela Becchi, North Carolina State University, USA<br>
 Marc Casas-Guix, Barcelona Supercomputing Center, Spain<br>

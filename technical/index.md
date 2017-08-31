@@ -31,8 +31,9 @@ contributions while papers reporting experiences must clearly describe lessons
 learned and impact, along with the utility of the approach compared to previous
 ones.<br>
 
-<h4>Student travel awards - for students at U.S. institutions</h4>
-
+<h4>Student travel awards</h4>
+TBD
+<!--
 Several travel awards are sponsored by the National Science Foundation for
 students enrolled in US institutions and participating in the Student Mentoring
 Program at the IEEE Cluster 2018 conference. Students with accepted papers
@@ -42,6 +43,7 @@ the travel award. Notice of travel awards will be made prior to the conference.
 The travel awards will be distributed post-conference in the form of
 reimbursements against actual travel, registration, and accommodation expenses
 submitted by the student. Both graduate and undergraduate students can apply.<br>
+-->
 
 
 <h6>2018 Highlight: TBD </h6>
@@ -135,7 +137,7 @@ conform to the following Xplore layout, page limit, and font size.
 <h3>Important dates:</h3>
 
 <!--<li>Abstract deadline: <b>May 10th, 2017 (Hard Deadline)</b></li>-->
-<li>Abstract deadline: <b>TBD</b></li>-->
+<li>Abstract deadline: <b>TBD</b></li>
 <li>Full Papers due: <b>TBD</b></li>
 <li>Paper Acceptance Notification: <b>TBD</b></li>
 <li>Camera-ready deadline: <b>TBD</b></li>

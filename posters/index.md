@@ -7,18 +7,18 @@ subheadline: "Research Posters"
 title: "Call for Posters"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
 
-IEEE Cluster 2017 is soliciting submissions from academia, laboratory, and
+IEEE Cluster 2018 is soliciting submissions from academia, laboratory, and
 industry professionals to present their latest research findings and
 works-in-progress in all aspects of cluster, cloud, and grid technologies in
 the form of posters, which will be included in the conference proceedings.
 
 The topics of interest are the same as in the <a
-href="https://cluster17.github.io/technical">Call for Papers</a>.
+href="https://cluster2018.github.io/technical">Call for Papers</a>.
 
 <h2>Submissions</h2>
 
@@ -37,18 +37,18 @@ format</a> for conference proceedings (PDF, single-spaced, double column, 10pt
 text).
 
 Please submit your poster via the <a
-href="https://easychair.org/conferences/?conf=ieeecluster2017">submission
+href="https://easychair.org/conferences/?conf=ieeecluster2018">submission
 system</a>.
 
 <h3>Important Dates</h3>
 
- * <b>Submission deadline (extended): July 5, 2017 (AoE)</b>
- * Acceptance notification: July 26, 2017 (AoE)
+ * <b>Submission deadline (extended): TBD <!--July 5, 2017 (AoE)--></b>
+ * Acceptance notification: TBD <!--July 26, 2017 (AoE)--
 
 <h4>Posters Chair</h4>
 
  * Abhinav Bhatele, Lawrence Livermore National Laboratory
 
 Complete posters committee list is available <a
-href="https://cluster17.github.io/committees">here</a>.
+href="https://cluster2018.github.io/committees">here</a>.
 

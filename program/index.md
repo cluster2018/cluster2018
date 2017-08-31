@@ -7,11 +7,11 @@ subheadline: "Tentative Schedule"
 title: "Technical Program"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
-
+<!--
 <table border="1" style="width:750px; text-align:center; vertical-align=middle; border:1px solid black; ">
 
  <tr>
@@ -272,7 +272,7 @@ translated into new scientific applications – but also new infrastructure
 requirements and new ideas on how computing can support science. I will give
 examples of different approaches explored by various scientific application
 groups and discuss ideas on what we can do to catalyze change in tools and
-infrastructure – from specific solutions to changes in experimental approach --
+infrastructure – from specific solutions to changes in experimental approach,
 to support new modes of usage.
 
 
@@ -495,5 +495,6 @@ to support new modes of usage.
 <li> HPCMASPA : Kahuku Room </li>
 <li> WRAp : Oahu Room </li>
 <li> DOE/MEXT : Waialua Room </li>
+-->
 
 

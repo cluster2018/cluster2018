@@ -5,15 +5,15 @@
   class: "network"
   title: "Institute of Electrical and Electronics Engineers"
 
+- name: "IEEE Cluster 2017"
+  url: "https://cluster17.github.io"
+  class: "network"
+  title: "IEEE Cluster 2017"
+
 - name: "IEEE Cluster 2016"
   url: "http://ieeecluster2016.org"
   class: "network"
   title: "IEEE Cluster 2016"
-
-- name: "IEEE Cluster 2015"
-  url: "http://www.mcs.anl.gov/ieeecluster2015/"
-  class: "network"
-  title: "IEEE Cluster 2015"
 
 - name: "IEEE Computer Society"
   url: "http://www.computer.org"

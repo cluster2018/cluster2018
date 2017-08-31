@@ -7,7 +7,7 @@ subheadline: "Contact us"
 title: "Contact"
 teaser: "Don't hesitate to contact us if you have any issue/question."
 header:
-   image_fullwidth: "hawai.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 

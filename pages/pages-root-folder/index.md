@@ -7,7 +7,7 @@ subheadline: "IEEE Cluster 2017"
 title: "Welcome!"
 teaser: "September 2017, Hawaii, USA."
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/"
 ---
 

@@ -7,7 +7,7 @@ subheadline: "Technical Papers"
 title: "Instructions for Authors"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
@@ -27,7 +27,7 @@ the layout of your paper BEFORE submitting it to PDF eXpress™.
 
 <li>The camera-ready version should be uploaded via the link sent to you by email.</li>
 
-<li>The hard deadline for submitting the camera-ready version of your paper is <b>July 31st, 2017</b></li>
+<li>The hard deadline for submitting the camera-ready version of your paper is <b>TBD <!--July 31st, 2017--></b></li>
 
 
 <h3>Additional Pages</h3>

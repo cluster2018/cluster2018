@@ -7,18 +7,18 @@ subheadline: "Mentoring"
 title: "Student Mentoring Program"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
 
-<b>IMPORTANT: Applications will be reviewed starting June 30, 2017. Advisor’s
+<b>IMPORTANT: Applications will be reviewed starting TBD <!--June 30, 2017-->. Advisor’s
 endorsements will be requested once the review process has started.
-Notifications will be sent starting August 6, 2017.</b>
+Notifications will be sent starting TBD <!--August 6, 2017-->.</b>
 
-<h3>Why a Mentoring Program at IEEE Cluster 2017?</h3>
+<h3>Why a Mentoring Program at IEEE Cluster 2018?</h3>
 
-The Mentoring Program at IEEE Cluster 2017 is a program for PhD, Master, and
+The Mentoring Program at IEEE Cluster 2018 is a program for PhD, Master, and
 Undergraduate students that wants to help students building their scientific
 career as efficiently as possible. The scientific presentations and
 interactions with conference attendees help them develop their technical
@@ -45,7 +45,7 @@ and will be contacted once the application is submitted.
 
 Several travel awards are sponsored by the National Science Foundation for
 students enrolled in US institutions and participating in the Student Mentoring
-Program at the IEEE Cluster 2017 conference. Students with accepted papers
+Program at the IEEE Cluster 2018 conference. Students with accepted papers
 in the main conference track or in workshops, or students with posters must
 apply to and participate in the Student Mentoring Program to be eligible for
 the travel award. Notice of travel awards will be made prior to the conference.
@@ -57,19 +57,19 @@ submitted by the student. Both graduate and undergraduate students can apply.
 <h2>Submission Guidelines</h2>
 
 Please submit your application via the <a
-href="https://easychair.org/conferences/?conf=ieeecluster2017">EasyChair
+href="https://easychair.org/conferences/?conf=ieeecluster2018">EasyChair
 submission system</a>.
 
 <h2>Important Dates</h2>
 
-Applications will be reviewed <b>starting June 30, 2017</b>.
+Applications will be reviewed <b>TBD <!--starting June 30, 2017--></b>.
 
 Travel awards for students in USA institutions in the amount of up to <b>$1,000</b>
 will be assigned on a first-come, first-serve basis until completion of the
 available funding.
 
 <b>We will accept applications  for the student mentoring program with NSF
-travel support (when applicable) until August 1st (deadline for early
+travel support (when applicable) until TBD<!--August 1st--> (deadline for early
 registration).  Applications submitted after Aug 1st will be still considered
 for the student mentoring program but will not be considered for travel
 support. </b>
@@ -78,10 +78,12 @@ support. </b>
 <br>
 
 <h4>Student Mentoring Chair:</h4>
-<li>Kenneth Kent, University of New Brunswick (Canada)</li>
+<li>TBD</li>
+<!--<li>Kenneth Kent, University of New Brunswick (Canada)</li>-->
 
 <h4>Student Travel Award Chair:</h4>
-<li>Michela Taufer University of Delaware (USA)</li>
+<li>TBD</li>
+<!--<li>Michela Taufer University of Delaware (USA)</li>-->
 
 
 

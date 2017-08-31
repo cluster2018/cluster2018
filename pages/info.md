@@ -7,7 +7,7 @@ subheadline: "About this site"
 title: "About"
 teaser: "some extra information about this website."
 header:
-   image_fullwidth: "hawai.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/info/"
 ---
 

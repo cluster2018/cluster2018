@@ -3,16 +3,17 @@ layout: page
 #
 # Content
 #
-subheadline: "IEEE Cluster 2017"
+subheadline: "IEEE Cluster 2018"
 title: "Registration"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
-The early registration deadline is <b>August 7th, 2017</b>.
+The early registration deadline is <b>TBD <!--August 7th, 2017--></b>.
 
+<!--
 | Advance Registration | Early Registration | Late/Onsite Registration |
 |---|:-:|:-:|
 | Members Fee | $850 | $1,020  |
@@ -29,9 +30,10 @@ href="https://www.regonline.com/cluster2017the2017ieeeinternationalconferenceonc
 <b>link</b></a>.
 
 Registraton can be cancelled until August 25 with a refund of original registration fee minus a processing fee. No refund is provided on or after August 26.
+-->
 
 <br>
 
-<img src="img/sighpc.png" width="200">
+<!--<img src="img/sighpc.png" width="200">-->
 <img src="img/ieee.gif" width="200">
 

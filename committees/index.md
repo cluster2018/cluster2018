@@ -7,80 +7,61 @@ subheadline: "Committees"
 title: "Committees"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
+# Organizing Committee
 
-<h2>Organizing Committee</h2>
+## General Co-Chairs
+Dimitrios Nikolopoulos, Queen’s University Belfast
+Bronis R de Supinski, Lawrence Livermore National Laboratory
 
-<h3>General Co-chairs: </h3>
+## Technical Program
 
-Todd Gamblin, Lawrence Livermore National Laboratory, USA<br>
-Naoya Maruyama, Lawrence Livermore National Laboratory, USA<br>
+### Program Chair
+Paul Kelly, Imperial College London
 
-<h2>Technical Program</h2>
+### Publications Chair
+Ana Lucia Varbanescu, University of Amsterdam
 
-<h3>Program Co-chairs: </h3>
+### Workshops and Tutorials Chair 
+Rosa Badia, Barcelona Supercomputing Centre
 
-Gabriel Antoniu, INRIA, France<br>
-Rich Vuduc, Georgia Institute of Technology, USA
+### Posters Chair
+Dong Li, University of California, Merced
 
-<h3>Workshops Chair: </h3>
+### Panels Chair
+Laura Grigori, INRIA
 
-Bronis de Supinski, Lawrence Livermore National Laboratory, USA
+## Logistics
 
-<h3>Panels Chair: </h3>
+### Finance Chair
+Hans Vandierendonck, Queen’s University Belfast
 
-Satoshi Matsuoka, Tokyo Institute of Technology, Japan
+### Publicity Co-Chairs 
+Antoniu Pop, University of Manchester
+Brett Becker, University College Dublin
+Rong Ge, Clemson University
+Guangmin Tan, Chinese Academy of Sciences
 
-<h3>Student Mentoring Chair: </h3>
+### Student Travel Grants Chair
+Amanda Randles, Duke University
 
-Kenneth B. Kent , University of New Brunswick, Canada
+### Sponsors Co-Chairs 
+David Gregg, Trinity College Dublin
+Angelos Bilas, FORTH-ICS and University of Crete
 
-<h3>Student Travel Award Chair:</h3>
-
-Michela Taufer University of Delaware (USA)
-
-<h3>Posters Chair: </h3>
-
-Abhinav Bhatele, Lawrence Livermore National Laboratory, USA
-
-<h3>Submissions Chair: </h3>
-
-Alexandru Costan, Insa Rennes/Inria, France
-
-<h3>Proceedings Chair: </h3>
-
-Kento Sato, Lawrence Livermore National Laboratory, USA
-
-
-
-<h2>Logistics</h2>
-
-<h3>Finance Co-chairs: </h3>
-
-Kathryn Mohror, Lawrence Livermore National Laboratory, USA<br>
-Jill Dunaway, Lawrence Livermore National Laboratory, USA
-
-<h3>Local Arrangement Co-chairs: </h3>
-
-Henri Casanova, University of Hawaii at Manoa, USA <br>
-Lipyeow Lim, University of Hawaii at Manoa, USA
-
-<h3>Web Chair: </h3>
-
-Leonardo Bautista-Gomez, Barcelona Supercomputer Center, Spain
-
-<h3>Publicity Chair: </h3>
-
-Masaaki Kondo, University of Tokyo, Japan
+### Web Chair 
+Giorgis Georgakoudis, Queen’s University Belfast
 
 
-<h2>Technical Program Committee: </h2>
+## Technical Program Committee
 
 
-<h3>Area 1: Application, Algorithms, and Libraries</h3>
+### Area 1: Application, Algorithms, and Libraries
+TBD
+<!--
 <b>Chair:</b> Michela Taufer, University of Delaware, USA<br>
 <b>Co-Chair:</b> Aparna Chandramowlishwaran, University of California, Irvine<br>
 
@@ -133,12 +114,10 @@ Nathan Tallent, Pacific Northwest National Laboratory, USA<br>
 Bora Ucar, ENS-Lyon, France<br>
 R. (Vaidy) Vaidyanathan, Louisiana State University, USA<br>
 Rio Yokota, Tokyo Institute of Technology, Japan<br>
-
-
-
-
-
-<h3>Area 2: Architecture, Network/Communications, and Management</h3>
+-->
+### Area 2: Architecture, Network/Communications, and Management
+TBD
+<!--
 <b>Chair:</b> Frank Mueller, North Carolina State University, USA<br>
 
 Pavan Balaji, ANL, USA<br>
@@ -159,9 +138,11 @@ Weikuan Yu, FSU, USA<br>
 Antonia Zhai, University of Minnesota, USA<br>
 Yongpeng Zhang, Stone Ridge Tech, USA<br>
 Huiyang Zhou, NCSU, USA<br>
+-->
 
-
-<h3>Area 3: Programming and System Software</h3>
+### Area 3: Programming and System Software
+TBD
+<!--
 <b>Chair:</b> Kenjiro Taura, University of Tokyo, Japan<br>
 
 Marco Aldinucci, University of Torino, Italy <br>
@@ -195,9 +176,11 @@ Shin’ichiro Takizawa, AICS Riken, Japan<br>
 Domenico Talia, University of Calabria, Italy <br>
 Massimo Torquati, University of Pisa, Italy <br>
 Mohamed Wahib, AICS Riken, Japan<br>
+-->
 
 
-<h3>Area 4: Data, Storage, and Visualization</h3>
+### Area 4: Data, Storage, and Visualization
+<!--
 <b>Chair:</b> Maria Pérez, Universidad Politécnica de Madrid, Spain<br>
 <b>Co-Chair:</b> Robert Sisneros, UIUC, USA<br>
 
@@ -231,9 +214,11 @@ Osamu Tatebe,  University of Tsukuba, Japan<br>
 Mark Van Moer,  UIUC, USA<br>
 Rhonda Vickery, DRC, USA<br>
 Jon Woodring,  Los Alamos National Lab, USA<br>
+-->
 
-
-<h2>Posters Committee: </h2>
+## Posters Committee
+TBD
+<!--
 
 Sadaf Alam, Swiss National Supercomputing Center, Switzerland<br>
 Michela Becchi, North Carolina State University, USA<br>
@@ -256,4 +241,4 @@ Boyana Norris, University of Oregon, USA<br>
 Seetharami Seelam, IBM Research, USA<br>
 Sameer Shende, University of Oregon, USA<br>
 Frederic Sutter, Ecole Normale Supérieure de Lyon, France<br>
-
+-->

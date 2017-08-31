@@ -3,11 +3,11 @@ layout: page
 #
 # Content
 #
-subheadline: "Honolulu"
+subheadline: "Belfast"
 title: "Venue"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
@@ -15,19 +15,22 @@ header:
 <h2>Transportation</h2>
 
 
-Honolulu is served by the <a href="http://hawaii.gov/hnl">Honolulu International Airport</a>
-which is located at only 20 minutes in car from the Waikiki beach hotel area.
-HNL is the largest airport in the State of Hawaii and is located in Honolulu on
-the island of Oahu.
+Belfast is served by two major airports:
+[George Best Belfast City Airport](http://www.belfastcityairport.com/) and
+[Belfast International Airport](https://www.belfastairport.com/). It is also
+in close proximity with [Dublin Airport](https://www.dublinairport.com/) having
+a 24-hour bus connection.
 
-There are also departures daily from HNL to Anchorage, Atlanta, Belllingham,
-Brisbane, Calgary, Chicago, Dallas-Fort Worth, Denver, Guam, Haneda, Houston,
-Incheon, Kansai, Las Vegas, Los Angeles, Manila, Melbourne, Nagoya, Narita,
-Newark, Oakland, Pago Pago, Phoenix, Portland, Sacramento, Salt Lake City, San
-Diego, San Francisco, San Jose, Seattle-Tacoma, Seoul, Sydney and Vancouver.
+Belfast is Northern Ireland’s capital. It was the birthplace of the RMS
+Titanic, which famously struck an iceberg and sunk in 1912. This legacy is
+recalled in the renovated dockyards' Titanic Quarter, which includes the
+Titanic Belfast, an aluminium-clad museum reminiscent of a ship’s hull, as well
+as shipbuilder Harland & Wolff’s Drawing Offices and the Titanic Slipways,
+which now host open-air concerts.
 
-<h2>Hotel Venue</h2>
+<h2>Conference Venue</h2>
 
+<!--
 The designated hotel for the IEEE Cluster 2017 conference is the <a
 href="http://www.sheraton-waikiki.com/">Sheraton Waikiki</a>. One of Hawaii's
 more recognized landmarks, the Sheraton Waikiki, stands at the tip of <a
@@ -42,22 +45,26 @@ is a more detailed view of the property location.
 A personalized <a href="https://www.starwoodmeeting.com/Book/UH28AA">Hotel
 Reservation Website</a> for IEEE Cluster 2017 (September 5, 2017 - September 8,
 2017) has been created. Please use it for your hotel reservation.
+-->
 
 <h2>Activities</h2>
 
+<!--
 Honolulu is located in the Oahu island. The Waikiki beach is famous
 world-wide as one of the best surfing spots. You can find more information
-about the Oahu island <a href="http://www.gohawaii.com/oahu/">here</a>. Also,
+about the Oahu island <a href="http://www.gobelfast.com/oahu/">here</a>. Also,
 a list of the top sights and attractions of the Oahu island is
-available <a href="http://www.gohawaii.com/oahu/guidebook/top-sights/">here</a>.
+available <a href="http://www.gobelfast.com/oahu/guidebook/top-sights/">here</a>.
 
 In addition, most of the hotels in the area offer information about the
 <a href="https://waikiki.regency.hyatt.com/en/hotel/activities.html">activities</a>
 that tourists can enjoy in the Waikiki beach.
+-->
 
 
 <h2>Visa Procedures</h2>
 
+<!--
 Please note that the information in this webpage are for guidelines only. Full
 details can be found at the US Department of State Information  <a
 href="https://travel.state.gov//content/travel/en.html">About US
@@ -95,8 +102,4 @@ soon as possible in order to obtain the necessary documents.
 Note that when you go to the embassy or consulate for your interview, you will
 be asked to pay a nonrefundable application fee and submit necessary materials.
 Detailed information can be found in the US Embassy webpage in your county.
-
-
-
-
-
+-->

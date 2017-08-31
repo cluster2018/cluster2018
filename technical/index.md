@@ -7,11 +7,11 @@ subheadline: "Technical Papers"
 title: "Call for Papers"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
-IEEE Cluster 2017 is the 19th edition of the IEEE Cluster conference series,
+IEEE Cluster 2018 is the 20th edition of the IEEE Cluster conference series,
 organized in cooperation with SIGHPC.<br>
 
 Clusters are the primary architecture for building today's rapidly evolving
@@ -21,8 +21,8 @@ requires a community effort in the areas of cluster system design, management
 and monitoring, at the hardware, system, middleware and application levels.<br>
 
 Following the successes of previous <a href="http://www.clustercomp.org">IEEE
-Cluster conferences</a>, for IEEE Cluster 2017, which will be held September
-05-08, 2017 in Hawaii USA, we again solicit high-quality original work that
+Cluster conferences</a>, for IEEE Cluster 2018, which will be held September
+10-14, 2018 in Belfast UK, we again solicit high-quality original work that
 advances the state-of-the-art in clusters and closely related fields.  All
 papers will be rigorously peer-reviewed for their originality, technical depth
 and correctness, potential impact, relevance to the conference, and quality of
@@ -35,7 +35,7 @@ ones.<br>
 
 Several travel awards are sponsored by the National Science Foundation for
 students enrolled in US institutions and participating in the Student Mentoring
-Program at the IEEE Cluster 2017 conference. Students with accepted papers
+Program at the IEEE Cluster 2018 conference. Students with accepted papers
 in the main conference track or in workshops, or students with posters must
 apply to and participate in the Student Mentoring Program to be eligible for
 the travel award. Notice of travel awards will be made prior to the conference.
@@ -44,9 +44,9 @@ reimbursements against actual travel, registration, and accommodation expenses
 submitted by the student. Both graduate and undergraduate students can apply.<br>
 
 
-<h6>2017 Highlight: Convergence of Big Data and High-Performance Computing.</h6>
+<h6>2018 Highlight: TBD </h6>
 
-While the tools and cultures for High-Performance Computing and Big Data
+<!--While the tools and cultures for High-Performance Computing and Big Data
 Analytics have evolved in divergent ways, both rely on cluster architectures.
 As we witness an increasing awareness that further progress in scientific
 research depends on both areas, the interoperability and scaling convergence of
@@ -60,7 +60,7 @@ Authors must indicate the primary area of preference out of the four areas
 below. They may optionally rank the other areas. The paper may be accepted as a
 full 10-page paper, or the committee might decide to accept it as a short paper
 with 4 pages in the proceedings. Note: references are not counted in the above
-limits on the number of pages. <br>
+limits on the number of pages. <br>-->
 
 <h3>Area 1: Application, Algorithms, and Libraries</h3>
 
@@ -129,46 +129,47 @@ conform to the following Xplore layout, page limit, and font size.
 <li>Submissions are <b>NOT</b> double-blind.  Author information can be included on the submission and will be visible to the reviewers.</li>
 <li>LaTeX and Word Templates are available <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">here</a></li>
 <li>Only <b>web-based</b> submissions are allowed.</li>
-<li>Please submit your paper via the <a href="https://easychair.org/conferences/?conf=ieeecluster2017">submission system</a></li>
+<li>Please submit your paper via the <a href="https://easychair.org/conferences/?conf=ieeecluster2018">submission system</a></li>
 
 
 <h3>Important dates:</h3>
 
-<li>Abstract deadline: <b>May 10th, 2017 (Hard Deadline)</b></li>
-<li>Full Papers due: <b>May 15th, 2017 (Hard Deadline)</b></li>
-<li>Paper Acceptance Notification: <b>June 30th, 2017</b></li>
-<li>Camera-ready deadline: <b>July 31st, 2017</b></li>
-<li>Conference: <b>September 05 through 08, 2017</b></li>
+<!--<li>Abstract deadline: <b>May 10th, 2017 (Hard Deadline)</b></li>-->
+<li>Abstract deadline: <b>TBD</b></li>-->
+<li>Full Papers due: <b>TBD</b></li>
+<li>Paper Acceptance Notification: <b>TBD</b></li>
+<li>Camera-ready deadline: <b>TBD</b></li>
+<li>Conference: <b>TBD</b></li>
 <li>Deadlines are <a href="http://www.timeanddate.com/time/zones/aoe">Anywhere on Earth (AoE)</a></li>
 
 
 <h3>Organizers</h3>
 
 <h4>General Co-chairs:</h4>
-<li>Todd Gamblin, Lawrence Livermore National Laboratory, USA</li>
-<li>Naoya Maruyama, Riken, Japan</li>
+<!--<li>Todd Gamblin, Lawrence Livermore National Laboratory, USA</li>
+<li>Naoya Maruyama, Riken, Japan</li>-->
 
 <h4>Program Co-chairs:</h4>
-<li>Gabriel Antoniu, INRIA, France</li>
-<li>Rich Vuduc, Georgia Institute of Technology, USA</li>
+<!--<li>Gabriel Antoniu, INRIA, France</li>
+<li>Rich Vuduc, Georgia Institute of Technology, USA</li>-->
 
 
 <h4>Area Chairs</h4>
 
-<li>Michela Taufer, University of Delaware, USA and Aparna Chandramowlishwaran, University of California, Irvine (Area 1)</li>
+<!--<li>Michela Taufer, University of Delaware, USA and Aparna Chandramowlishwaran, University of California, Irvine (Area 1)</li>
 <li>Frank Mueller, North Carolina State University, USA (Area 2)</li>
 <li>Kenjiro Taura, University of Tokyo, Japan (Area 3)</li>
-<li>Maria Pérez, Universidad Politécnica de Madrid, Spain and Robert Sisneros, UIUC, USA (Area 4)</li>
+<li>Maria Pérez, Universidad Politécnica de Madrid, Spain and Robert Sisneros, UIUC, USA (Area 4)</li>-->
 
 
 <h4>Local Arrangements Chairs:</h4>
 
-<li>Henri Cassanova, University of Hawaii, USA</li>
-<li>Lipyoew Lim, University of Hawaii, USA</li>
+<!--<li>Henri Cassanova, University of Hawaii, USA</li>
+<li>Lipyoew Lim, University of Hawaii, USA</li>-->
 <br>
 
-Complete committee list is available <a href="http://cluster17.github.io/committees/">here</a>.
+Complete committee list is available <a href="http://cluster2018.github.io/committees/">here</a>.
 
-<img src="img/sighpc.png" width="200">
+<!--<img src="img/sighpc.png" width="200">-->
 <img src="img/ieee.gif" width="200">
 

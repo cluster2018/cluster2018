@@ -3,11 +3,11 @@ layout: page
 #
 # Content
 #
-subheadline: "IEEE Cluster 2017"
+subheadline: "IEEE Cluster 2018"
 title: "Welcome!"
-teaser: "September 5th - 8th, 2017, Hawaii, USA."
+teaser: "September 10th - 14th, 2018, Belfast, UK."
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/"
 ---
 
@@ -15,7 +15,7 @@ header:
 The IEEE Cluster Conference serves as a major international forum for
 presenting and sharing recent accomplishments and technological developments in
 the field of cluster computing as well as the use of cluster systems for
-scientific and commercial applications. Cluster 2017 involves participants
+scientific and commercial applications. Cluster 2018 involves participants
 (researchers, developers, and users) from academia, industry, laboratories, and
 commerce, coming together to discuss recent advances and trends in, but not
 limited to:
@@ -26,6 +26,6 @@ limited to:
  - Data, Storage, and Visualization
 
 
-<img src="images/sighpc.png" width="200">
+<!--<img src="images/sighpc.png" width="200">-->
 <img src="images/ieee.gif" width="200">
 

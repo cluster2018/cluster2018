@@ -7,11 +7,12 @@ subheadline: "Workshops"
 title: "Workshops"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "belfast.jpg"
    permalink: "/contact/"
 ---
 
 
+<!--
 <h2><a href="https://fts17.github.io">3rd International Workshop on Fault Tolerant Systems (FTS)</a></h2>
 
 Fault Tolerance is a cross-cutting issue that spans all layers of the
@@ -87,7 +88,7 @@ general purpose architectures have started incorporating features from the
 vector architectures that used to dominate high performance computing. From
 IBM’s Vector Media eXtension (VMX) to NEC’s SX architecture to Intel’s Advanced
 Vector eXtension (AVX) to ARM’s recently announced Scalable Vector Extension
-(SVE) -- all of the major general purpose architectures seem to have embraced a
+(SVE). All of the major general purpose architectures seem to have embraced a
 return to vector based functionality. Supporting these hardware developments
 there are a number of features being proposed for incorporation into modern
 programming models and languages in order to support the vector additions as
@@ -114,4 +115,4 @@ HPC plans for Japanese Flagship2020 project and the US Exascale Computing
 Project followed by specific reports on collaboration and scientific results.
 We will end the workshop by exploring future directions in research to address
 next-generation extreme-scale platforms.
-
+-->

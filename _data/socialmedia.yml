@@ -1,7 +1,7 @@
 - name: GitHub
-  url: http://github.com/LLNL/cluster17
+  url: https://github.com/cluster2018/cluster2018.github.io
   class: icon-github
-  title: "IEEE Cluster 2017"
+  title: "IEEE Cluster 2018"
 
 #- name: YouTube
 #  url: http://www.youtube.com/

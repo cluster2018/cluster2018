@@ -7,9 +7,9 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 
 leobago: # replace this with your info
-  name: "Leo"
+  name: "Giorgis Georgakoudis"
   siterole: "webmaster"
-  uri: http://leobago.com/
-  email:
+  uri:
+  email: g.georgakoudis@qub.ac.uk
   twitter:
 # you can add more authors here

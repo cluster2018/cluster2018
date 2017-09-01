@@ -16,7 +16,7 @@ header:
 ## General Co-Chairs
 Dimitrios Nikolopoulos, Queen’s University Belfast
 
-Bronis R de Supinski, Lawrence Livermore National Laboratory
+Bronis R de Supinski, Queen's University Belfast
 
 ## Technical Program
 

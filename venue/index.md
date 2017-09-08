@@ -36,7 +36,7 @@ film locations.
 ## Visa Procedures 
 You can check whether you will require a visa to attend the
 conference by visiting the UK Government website:
-https://www.gov.uk/check-uk-visa Please note that if you are flying in to
+<https://www.gov.uk/check-uk-visa> Please note that if you are flying in to
 Dublin Airport you may be subject to additional visa regulations for Ireland,
 further details can be found at:
 <https://www.dfa.ie/travel/visas/visas-for-ireland/>.

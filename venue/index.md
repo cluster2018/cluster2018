@@ -25,6 +25,61 @@ and several exquisite stain glass windows.  Following an £8million
 refurbishment in 2010, the facility offers state-of-the-art technology in a
 historically rich environment.
 
+## Hotel Accomodation
+
+There is a range of accommodation available in Belfast, to suit all budgets and
+tastes.  Rooms have been held at the below hotels in the city centre, which are
+within walking distance of the conference venue (please note that subject to
+availability, rooms are held until 6 weeks before the conference date).
+
+[Grand Central Hotel Belfast](http://www.hastingshotels.com/grand-central/)
+
+Room: £155 B&B per night
+
+\*New hotel\* – details of how to book tbc December 2017
+
+[Clayton Hotel Belfast](http://www.claytonhotelbelfast.com)
+
+Room: £135 B&B per night
+
+To reserve a room:
+
+Telephone +44 28 9027 1706
+
+**Quote IEEE CLUSTER**
+
+[Hilton Hotel Belfast City Centre](http://www3.hilton.com/en/hotels/united-kingdom/hilton-belfast-BFSHITW/index.html)
+
+Standard Room: £129 (single)/£139 (double) B&B per night
+
+Deluxe Room: £139 (single)/£149 (double) B&B per night
+
+To reserve a room visit:
+
+[https://secure3.hilton.com/en\_US/hi/reservation/book.htm?execution=e2s1](https://secure3.hilton.com/en_US/hi/reservation/book.htm?execution=e2s1)
+
+[Holiday Inn Belfast City Centre](https://www.ihg.com/holidayinn/hotels/gb/en/belfast/bfsas/hoteldetail)
+
+Room: £99 (single)/£109 (double) B&B per night
+
+To reserve a room:
+
+Email [reservations@hibelfastcitycentre.co.uk](mailto:reservations@hibelfastcitycentre.co.uk)  or telephone +44 28 9024 2494 (select Option 1 –in-house reservations)
+
+**QUOTE IEEE CLUSTER**
+
+[IBIS Belfast City Centre](http://www.ibisbelfastcity.com/)
+
+Room: £85 (single)/£89 (double) B&B per night
+
+To reserve a room:
+
+Email [h7232-re@accor.com](mailto:h7232-re@accor.com) or telephone +44 28 9023 8888 (select Option 1 –in-house reservations)
+
+**QUOTE IEEE CLUSTER**
+
+In addition to the above hotels, information about other accommodation in the city centre can be found at: [http://visitbelfast.com/stay-in-belfast/accommodation](http://visitbelfast.com/stay-in-belfast/accommodation)
+
 ## Activities 
 [Visit Belfast](http://visitbelfast.com/) provides comprehensive information on Belfast’s main
 attractions, activities, events and restaurants. Key attractions include the

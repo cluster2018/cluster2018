@@ -41,17 +41,17 @@
 
 	<link type="text/plain" rel="author" href="{{ site.url }}{{ site.baseurl }}/humans.txt" />
 
-    {% if site.google_analytics_tracking_id %}
-      <!-- Global Site Tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_tracking_id }}"></script>
-      <script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
+	{% if site.google_analytics_tracking_id %}
+	  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+	  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_tracking_id }}"></script>
+	  <script>
+	    window.dataLayer = window.dataLayer || [];
+	    function gtag(){dataLayer.push(arguments);}
+	    gtag('js', new Date());
 
-	gtag('config', '{{ site.google_analytics_tracking_id }}');
-      </script>
-    {% endif %}
+	    gtag('config', '{{ site.google_analytics_tracking_id }}');
+	  </script>
+	{% endif %}
 
 	{% if page.mediaplayer == true %}
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -63,4 +63,3 @@
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
 
-  </head>

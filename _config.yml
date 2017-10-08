@@ -137,8 +137,8 @@ defaults:
 # google_site_verification:  ""
 # bing_webmastertools_id:    ""
 # alexa_verify_id:           ""
-      plugins:
-        - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
 
 
 
@@ -221,7 +221,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+ google_analytics_tracking_id: UA-107704339-1
 
 
 

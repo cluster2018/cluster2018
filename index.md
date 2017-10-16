@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "IEEE Cluster 2018"
 title: "Welcome!"
-teaser: "September 10th - 14th, 2018, Belfast, UK."
+teaser: "September 10 - 13, 2018, Belfast, UK."
 header:
    image_fullwidth: "belfast.jpg"
    permalink: "/"

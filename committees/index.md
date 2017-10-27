@@ -35,6 +35,9 @@ Dong Li, University of California, Merced
 ### Panels Chair
 Laura Grigori, INRIA
 
+## Student Programs Chair
+Kenneth B. Kent, University of New Brunswick, Canada
+
 ## Logistics
 
 ### Finance Chair

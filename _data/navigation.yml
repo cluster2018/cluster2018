@@ -14,6 +14,10 @@
   url: "/authors"
   side: left
 
+- title: Sponsors
+  url: "/sponsors"
+  side: left
+
 - title: Workshops
   url: "/workshops"
   side: left

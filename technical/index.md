@@ -22,7 +22,7 @@ and monitoring, at the hardware, system, middleware and application levels.<br>
 
 Following the successes of previous <a href="http://www.clustercomp.org">IEEE
 Cluster conferences</a>, for IEEE Cluster 2018, which will be held September
-10-14, 2018 in Belfast UK, we again solicit high-quality original work that
+10-13, 2018 in Belfast UK, we again solicit high-quality original work that
 advances the state-of-the-art in clusters and closely related fields.  All
 papers will be rigorously peer-reviewed for their originality, technical depth
 and correctness, potential impact, relevance to the conference, and quality of

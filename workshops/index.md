@@ -11,10 +11,9 @@ header:
    permalink: "/contact/"
 ---
 
-TBD
+<!--<h2><a href="https://fts17.github.io">4th International Workshop on Fault Tolerant Systems (FTS)</a></h2>-->
 
-<!--
-<h2><a href="https://fts17.github.io">3rd International Workshop on Fault Tolerant Systems (FTS)</a></h2>
+## 4th International Workshop on Fault Tolerant Systems (FTS)
 
 Fault Tolerance is a cross-cutting issue that spans all layers of the
 hardware/software stack, and hence, requires coupled improvements in each layer
@@ -23,8 +22,13 @@ researchers to share experiences across the hardware/software layers and
 attendees to get a holistic view of fault tolerance techniques, especially with
 a focus on HPC and parallel computing.
 
+### Program Co-chairs
+* Bogdan Nicolae, Argonne National Laboratory, US
+* Guillaume Aupy, INRIA, France
 
-<h2><a href="https://sites.google.com/site/hpcmaspa2017/home">Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)</a></h2>
+<!--<h2><a href="https://sites.google.com/site/hpcmaspa2017/home">Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)</a></h2>-->
+
+## Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)
 
 Architects, administrators, and users of modern high-performance computing
 (HPC) systems strive to meet goals of energy, resource, and application
@@ -54,10 +58,20 @@ exchange new ideas, research, techniques, and tools in the area of HPC
 monitoring, analysis, and feedback as it relates to increasing efficiency with
 respect to energy, resource utilization, and application run-time.
 
+### Organizing committee
+* Ann Gentile, Sandia National Laboratories, US
+* Jim Brandt, Sandia National Laboratories, US
+* Benjamin Allan, Sandia National Laboratories, US
+* Cory Lueninghoener,Los Alamos National Laboratory, US
+* Nichamon Naksinehaboon, Open Grid Computing, US
+* Boyana Norris, University of Oregon, US
+* Narate Taerat, Open Grid Computing, US
 
-<h2><a href="https://wrap17.github.io/">Workshop on Representative Applications (WRAp)</a></h2>
+<!--<h2><a href="https://wrap17.github.io/">Workshop on Representative Applications (WRAp)</a></h2>-->
 
-Held as part of IEEE Cluster 2017, the Second International Workshop on
+## 3rd Internal Workshop on Representative Applications (WRAp)
+
+Held as part of IEEE Cluster 2018, the Third International Workshop on
 Representative Applications is concerned with the development and use of
 representative applications (such as mini-applications or proxies) for all
 aspects of high-performance computing.
@@ -65,6 +79,7 @@ aspects of high-performance computing.
 The challenges posed by future systems: new architectures, programming models,
 and machine scales; mean that representative applications as an essential tool
 in the path towards exascale. These applications can be used for acceptance
+s Alamos National Laboratory
 testing, benchmarking, optimization evaluation, and also investigating the
 performance of new architectures or programming models.  However, the
 development of such representative applications must ensure they maintain some
@@ -77,8 +92,14 @@ The main aim of WRAp is to provide a venue in which the wide range of
 disciplines involved in creating and using representative applications can
 share important discoveries and lessons learned from these applications.
 
+### Workshop organizers
+* Tom Scogland, Lawrence Livermore National Labs, US
+* David Beckingsale, Lawrence Livermore National Labs, US
 
-<h2><a href="https://rev-a.github.io/">Re-Emergence of Vector Architectures Workshop (Rev-A)</a></h2>
+
+<!--<h2><a href="https://rev-a.github.io/">Re-Emergence of Vector Architectures Workshop (Rev-A)</a></h2>-->
+
+## Re-Emergence of Vector Architectures Workshop (Rev-A)
 
 The commoditization of high performance computing to a broader range of
 applications coupled with the reduction in performance improvement from
@@ -100,9 +121,12 @@ memory hierarchies. Tools and techniques for developing for these new vector
 architectures are still evolving, particularly on emerging languages and
 runtimes.
 
+### Organizing committee
+* Luiz DeRose, Cray, US
+* Eric Van Hansbergen, ARM, US
 
+<!--
 <h2>Workshop on Japan-USA Collaboration for Extreme-scale System Software</h2>
-
 
 In 2014, a bi-lateral, international coordination agreement between the US
 Department of Energy and the Japan Ministry of Education, Culture, Sports,

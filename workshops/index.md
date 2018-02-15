@@ -11,8 +11,6 @@ header:
    permalink: "/contact/"
 ---
 
-<!--<h2><a href="https://fts17.github.io">4th International Workshop on Fault Tolerant Systems (FTS)</a></h2>-->
-
 ## 4th International Workshop on Fault Tolerant Systems (FTS)
 
 Fault Tolerance is a cross-cutting issue that spans all layers of the
@@ -26,9 +24,7 @@ a focus on HPC and parallel computing.
 * Bogdan Nicolae, Argonne National Laboratory, US
 * Guillaume Aupy, INRIA, France
 
-<!--<h2><a href="https://sites.google.com/site/hpcmaspa2017/home">Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)</a></h2>-->
-
-## Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)
+## [Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA)](https://sites.google.com/site/hpcmaspa2018/)
 
 Architects, administrators, and users of modern high-performance computing
 (HPC) systems strive to meet goals of energy, resource, and application
@@ -62,12 +58,10 @@ respect to energy, resource utilization, and application run-time.
 * Ann Gentile, Sandia National Laboratories, US
 * Jim Brandt, Sandia National Laboratories, US
 * Benjamin Allan, Sandia National Laboratories, US
-* Cory Lueninghoener,Los Alamos National Laboratory, US
+* Cory Lueninghoener, Los Alamos National Laboratory, US
 * Nichamon Naksinehaboon, Open Grid Computing, US
 * Boyana Norris, University of Oregon, US
 * Narate Taerat, Open Grid Computing, US
-
-<!--<h2><a href="https://wrap17.github.io/">Workshop on Representative Applications (WRAp)</a></h2>-->
 
 ## 3rd Internal Workshop on Representative Applications (WRAp)
 
@@ -95,9 +89,6 @@ share important discoveries and lessons learned from these applications.
 ### Workshop organizers
 * Tom Scogland, Lawrence Livermore National Labs, US
 * David Beckingsale, Lawrence Livermore National Labs, US
-
-
-<!--<h2><a href="https://rev-a.github.io/">Re-Emergence of Vector Architectures Workshop (Rev-A)</a></h2>-->
 
 ## Re-Emergence of Vector Architectures Workshop (Rev-A)
 

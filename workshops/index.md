@@ -63,7 +63,7 @@ respect to energy, resource utilization, and application run-time.
 * Boyana Norris, University of Oregon, US
 * Narate Taerat, Open Grid Computing, US
 
-## 3rd Internal Workshop on Representative Applications (WRAp)
+## [3rd Internal Workshop on Representative Applications (WRAp)](https://wrap18.github.io/)
 
 Held as part of IEEE Cluster 2018, the Third International Workshop on
 Representative Applications is concerned with the development and use of

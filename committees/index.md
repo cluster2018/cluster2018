@@ -68,191 +68,123 @@ Giorgis Georgakoudis, Queen’s University Belfast
 
 
 ### Area 1: Application, Algorithms, and Libraries
-TBD
-
-<!--
-<b>Chair:</b> Michela Taufer, University of Delaware, USA<br>
-<b>Co-Chair:</b> Aparna Chandramowlishwaran, University of California, Irvine<br>
-
-Engin Arslan, University of Illinois at Urbana-Champaign, USA<br>
-Ariful Azad, Lawrence Berkeley National Laboratory, USA<br>
-Aydin Buluc, Lawrence Berkeley National Laboratory, USA<br>
-Adrián Castelló, Universitat Jaume I, Spain<br>
-Sunita Chandrasekaran, University of Delaware, USA<br>
-Kyle Chard, Unviersiy of Chicago, USA<br>
-Pietro Cicotti, San Diego Supercomputing Center, USA<br>
-Gabrielle Dawn Allen, University of IllinoisUrbana-Champaign, USA<br>
-Karen Devine, Sandia National Laboratories, USA<br>
-Trilce Estrada, University of New Mexico, USA<br>
-Rafael Ferreira da Silva, University of South California, USA<br>
-Rong Ge, Clemson University, USA<br>
-Kartik Gopalan, Binghamton University, USA<br>
-Roland Haas, University of Illinois at Urbana-Champaign, USA<br>
-Michael Heroux, Sandia National Laboratories, USA<br>
-Travis Johnston, Oak Ridge National Laboratory, USA<br>
-Volodymyr Kindratenko, University of Illinois at Urbana-Champaign, USA<br>
-Uma Klaassen, University of Texas El Paso, USA<br>
-Johannes Langguth, Simula Research Laboratory, Norway<br>
-Daniele Lezzi, Barcelona Supercomputing Center, Spain<br>
-Piotr R Luszczek, University of Tennesee, Knoxville, USA<br>
-Kamesh Madduri, The Pennsylvania State University, USA<br>
-Maciej Malawski, AGH University of the Science and Technology, Poland<br>
-Jonathan Marti, Barcelona Supercomputing Center, Spain<br>
-Vishal Mehta, Barcelona Supercomputer Center, Spain<br>
-Alberto Miranda, Barcelona Supercomputer Center, Spain<br>
-Sherley Moore, University of Texas at El Paso, USA<br>
-Ramon Nou, Barcelona Supercomputer Center, Spain<br>
-John Owens, University of California Davis, USA<br>
-Vivek Pallipuram, University of the Pacific, USA<br>
-Tapasya Patki, Lawrence Livermore National Laboratory, USA<br>
-Olga Pearce, Lawrence Livermore National Laboratory, USA<br>
-Antonio Pena, Barcelona Supercomputer Center, Spain<br>
-Swann Perarnau, Argonne National Laboratory, USA<br>
-Anna Queralt, BarcelonaSupercomputing Center, Spain<br>
-Sivasankaran Rajamanickam, Sandia National Laboratories, USA<br>
-Amanda Randles, Duke University, USA<br>
-Ahmet Erdem Sarıyüce, Sandia National Laboratories, USA<br>
-Erik Saule, University of North Carolina at Charlotte, USA<br>
-Suzanne Shontz, University of Kansas, USA<br>
-Min Si, Argonne National Laboratory, USA<br>
-Francesco Silvestri, IT University of Copenhagen, Denmark<br>
-Raul Sirvent, BarcelonaSupercomputing Center, Spain<br>
-Shaden Smith, University of Minnesota, USA<br>
-Hari Sundar, Unviersity of Utah, USA<br>
-Nathan Tallent, Pacific Northwest National Laboratory, USA<br>
-Bora Ucar, ENS-Lyon, France<br>
-R. (Vaidy) Vaidyanathan, Louisiana State University, USA<br>
-Rio Yokota, Tokyo Institute of Technology, Japan<br>
--->
+Vadym Aizinger,  Alfred Wegener Institute, Germany  
+Engin Arslan,  University of Nevada,  Reno  
+Ariful Azad,  Lawrence Berkeley National Laboratory, USA  
+Michael Bader,  Technical University of Munich, Germany  
+Dominik Bartuschat,  FAU, Germany  
+Ben Bergen,  Los Alamos National Laboratory, USA  
+Matthias Bolten,  University of Wuppertal, Germany  
+Adrian Castello,  Universitat Jaume I, Spain  
+Aparna Chandramowlishwaran,  UC Irvine, USA  
+Sunita Chandrasekaran,  University of Delaware, USA  
+Karen Devine,  Sandia National Laboratories, USA  
+Christian Engwer,  University of Muenster, Germany  
+Trilce Estrada,  University of New Mexico, USA  
+Rafael Ferreira da Silva,  University of Southern California, USA  
+Rong Ge,  Clemson University, USA  
+Kartik Gopalan,  Binghamton University, USA  
+Travis Johnston,  University of Delaware, USA  
+Volodymyr Kindratenko,   of Illinios, USA  
+Hatem Ltaief,  KAUST, Saudi Arabia  
+Piotr Luszczek,  University of Tennessee,  Innovative Computing Laboratory  
+Maciej Malawski,  AGH University of Science and Technology, Poland  
+Richard Membarth,  DFKI,  Saarland University  
+Shirley Moore,  University of Texas El Paso, USA  
+Philipp Neumann,  Universität Hamburg,  Deutsches Klimarechenzentrum  
+Antonio J. Peña,  Barcelona Supercomputing Center, Spain  
+Anna Queralt,  Barcelona Supercomputing Center, Spain  
+Sivasankaran Rajamanickam,  Sandia National Laboratories, USA  
+Amanda Randles,  Duke University, USA  
+A. Erdem Sariyuce,  University at Buffalo, USA  
+Suzanne Shontz,  University of Kansas, USA  
+Francesco Silvestri,  University of Padova, Italy  
+Shaden Smith,  Intel Labs, USA  
+Hari Sundar,  University of Utah, USA  
+Nathan Tallent,  Pacific Northwest National Laboratory, USA  
+Michela Taufer,  University of Delaware, USA  
+Ramachandran (Vaidy) Vaidyanathan,  Louisiana State University, USA  
+Tobias Weinzierl,  Durham University, United Kingdom  
+Rio Yokota,  Tokyo Institute of Technology, Japan  
 
 ### Area 2: Architecture, Network/Communications, and Management
-TBD
-
-<!--
-<b>Chair:</b> Frank Mueller, North Carolina State University, USA<br>
-
-Pavan Balaji, ANL, USA<br>
-André Brinkmann, University of Mainz, Germany<br>
-Ali R. Butt, Virginia Tech, USA<br>
-Wenguang Chen, Tsinghua University, China<br>
-Markus Geimer, Jülich Supercomputing Centre, Germany<br>
-Costin Iancu, LBNL, USA<br>
-Paul Kelly, Imperial College, United Kingdom<br>
-John Lange, Uversity of Pittsburgh, USA<br>
-Dimitrios Nikolopoulos, Queen’s University of Belfast, United Kingdom<br>
-Barry Rountree, LLNL, USA<br>
-Osman Unsal, Barcelona Supercomputing Center, Spain<br>
-Sudharshan Vazhkudai, ORNL, USA<br>
-Abhinav Vishnu, PNNL, USA<br>
-Xiaorui Wang, OSU, USA<br>
-Weikuan Yu, FSU, USA<br>
-Antonia Zhai, University of Minnesota, USA<br>
-Yongpeng Zhang, Stone Ridge Tech, USA<br>
-Huiyang Zhou, NCSU, USA<br>
--->
+Michela Becchi,  North Carolina State University, USA  
+Ivona Brandić,  University of Mainz, Austria  
+Andre Brinkmann,  Johannes Gutenberg-Universitaet Mainz, Germany  
+Ali R. Butt,  Virginia Tech, USA  
+Wenguang Chen,  Tsinghua University, China  
+Holger Fröning,  University of Heidelberg, Germany  
+Costin Iancu,  LBNL, USA  
+Myoungsoo Jung,  Yonsei University, Korea  
+Michihiro Koibuchi,  National Institute of Informatics, Japan  
+John Lange,  University of Pittsburgh, USA  
+Frank Mueller,  North Carolina State University, USA  
+Anne-Cécile ORGERIE,  CNRS, France  
+Kentaro Sano,  Riken,  CCS  
+Shinji Sumimoto,  Fujitsu, Japan  
+Osman Unsal,  Barcelona Supercomputing Center, Spain  
+Sudharshan S. Vazhkudai,  Oak Ridge National Laboratory, USA  
+Xiaorui Wang,  Ohio State University, USA  
+Weikuan Yu,  Florida State University, USA  
+Amelie Chi Zhou,  Shenzhen University, China  
+Huiyang Zhou,  North Carolina State University, USA  
 
 ### Area 3: Programming and System Software
-TBD
+Amer Abdelhalim,  Argonne National Laboratory, USA  
+Marco Aldinucci,  University of Torino, Italy  
+Amy Apon,  Clemson University, USA  
+Olivier Aumage,  Inria, France  
+Leonardo Bautista-Gomez,  Barcelona Supercomputing Center, Spain  
+Ali R. Butt,  Virginia Tech, USA  
+Huimin Cui,  Institute of Computing Technology,  CAS  
+Minh Dinh,  The University of Queensland, Australia  
+Ann Gentile,  Sandia National Labs, USA  
+Atsushi Hori,  RIKEN, Japan  
+Hiroshi Inoue,  IBM, Japan  
+Dieter Kranzlmueller,  Ludwig-Maximilians-Universität München, Germany  
+Sriram Krishnamoorthy,  PNNL, USA  
+Zhiling Lan,  Illinois Institute of Technology, USA  
+Dong Li,  University of California,  Merced  
+Hatem Ltaief,  KAUST, Saudi Arabia  
+Abid Malik,  Brookhaven National Lab,  Select your Organization  
+Catherine Olschanowsky,  Boise State University, USA  
+Miquel Pericàs,  Chalmers University of Technology, Sweden  
+Dana Petcu,  University of Western Timisoara, Romania  
+Olga Pierce,  LLNL, USA  
+Florin Pop,  University Politehnica of Bucharest, Romania  
+Christian Pérez,  INRIA, France  
+Domenico Talia,  University of Calabria, Italy  
+Massimo Torquati,  University of Pisa, Italy  
+Jia Zou,  Rice University, USA  
 
-<!--
-<b>Chair:</b> Kenjiro Taura, University of Tokyo, Japan<br>
-
-Marco Aldinucci, University of Torino, Italy <br>
-Amer Abdelhalim, Argonne National Laboratory, USA<br>
-Olivier Aumage, Inria, Bordeaux, France <br>
-Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain<br>
-Ali R. Butt, Virginia Tech, USA<br>
-Brad Chamberlain, Cray, USA<br>
-Abhishek Chandra, University of Minnesota, USA<br>
-Tasuku Hiraishi, Kyoto University, Japan<br>
-Hiroshi Inoue, IBM, Japan<br>
-Larry Kaplan, Cray, USA<br>
-Dieter Kranzlmueller, Ludwig-Maximilians-Universitaet Munich, Germany<br>
-Sriram Krishnamoorthy, Pacific Northwest National Laboratory, USA<br>
-Zhiling Lan, Illinois Institute of Technology, USA<br>
-Arnaud Legrand , CNRS, France <br>
-Dong Li, University of California Merced, USA<br>
-Hatem Ltaief, KAUST Supercomputing Laboratory, Saudi Arabia<br>
-Abid Malik, University of Houston, USA<br>
-Satoshi Ohshima, The University of Tokyo, Japan<br>
-Dhabaleswar Panda, Ohio State University, USA<br>
-Christian Pérez, INRIA, France <br>
-Miquel Pericàs, Chalmers University of Technology, Sweden<br>
-Dana Petcu, West University of Timisoara, Romania <br>
-Jelena Pjesivac-Grbovic, Google, USA<br>
-Florin Pop, University Politehnica of Bucharest, Romania<br>
-Kento Sato, LLNL, USA<br>
-Xipeng Shen, NCSU, USA<br>
-Jun Shirako, Rice University, USA<br>
-Shin’ichiro Takizawa, AICS Riken, Japan<br>
-Domenico Talia, University of Calabria, Italy <br>
-Massimo Torquati, University of Pisa, Italy <br>
-Mohamed Wahib, AICS Riken, Japan<br>
--->
 
 
 ### Area 4: Data, Storage, and Visualization
-TBD
+Gagan Agrawal,  Ohio State University, USA  
+Janine Bennett,  Sandia National Labs, USA  
+Elisa Bertino,  Purdue University, USA  
+Suren Byna,  Lawrence Berkeley Lab, USA  
+Jesus Carretero,  University Carlos III of Madrid, Spain  
+Kalyana Chadalavada,  Intel, USA  
+Alexandru Costan,  IRISA/INSA Rennes, France  
+Matthieu Dorier,  Argonne National Laboratory, USA  
+Ian Foster,  University of Chicago, USA  
+Jian Huang,  UIUC, USA  
+Florin Isaila,  Universidad Carlos III, Spain  
+Hai Jin,  Huazhong University of Science and Technology, China  
+Darrell Ling,  UC Santa Cruz, USA  
+Faisal Nawab,  UC Santa Cruz, USA  
+Bogdan Nicolae,  Argonne National Laboratory, Ireland  
+Maria S. Perez,  Universidad Politecnica de Madrid, Spain  
+David Pugmire,  Oak Ridge National Labs, USA  
+Wolski Rich,  UC Santa Barbara, USA  
+Michael Schoettner,  University of Duesseldorf, Germany  
+Xuanhua Shi,  Huazhong University of Science and Technology, China  
+Robert Sisneros,  NCSA,  UIUC, USA  
+Osamu Tatebe,  University of Tsukuba, Japan  
+Mark van Moer,  University of Illinois, USA  
+Jon Woodring,  LANL, USA  
 
-<!--
-<b>Chair:</b> Maria Pérez, Universidad Politécnica de Madrid, Spain<br>
-<b>Co-Chair:</b> Robert Sisneros, UIUC, USA<br>
-
-Katerina Antypas, NERSC Lawrence Berkeley National Lab, USA<br>
-Janine Bennett, Sandia National Laboratories, USA<br>
-Suren Byna,  LLBL, USA<br>
-Jesus Carretero,  Universidad Carlos III de Madrid, Spain<br>
-Kalyana Chadalavada,  Intel, USA<br>
-Hank Childs,  University of Oregon, USA<br>
-Toni Cortes,  Barcelona Supercomputing Center, Spain<br>
-Alexandru Costan,  Inria and INSA Rennes, France<br>
-Matthieu Dorier,  Argonne National Lab, USA<br>
-Pilar Gonzalez-Ferez,  Universidad de Murcia, Spain<br>
-Jian Huang,  University of Tennessee, USA<br>
-Shadi Ibrahim,  INRIA Rennes, France<br>
-Florin Isaila,  Universidad Carlos III de Madrid, Spain<br>
-Hai Jin,  Huazhong University of Science and Technology, China<br>
-Pierre Matri, Universidad Politécnica de Madrid, Spain<br>
-Laura Monroe, Los Alamos National Laboratory, USA<br>
-Bogdan Nicolae, Huawei Technologies - European Research Center, Germany<br>
-JorJi Nonaka, RIKEN Advanced Institute for Computational Science, Japan<br>
-Manish Parashar,  Rutgers University, USA<br>
-Thomas Peterka,  Argonne National Laboratory, USA<br>
-Kristin Potter, University of Oregon, USA<br>
-David Pugmire,  ORNL, USA<br>
-Rob Ross,  Argonne National Laboratory, USA<br>
-Xuanhua Shi,  Huazhong University of Science and Technology, China<br>
-Michael Schoettner,  University of Dusseldorf, Germany<br>
-Domenico Talia,  University of Calabria, Italy<br>
-Osamu Tatebe,  University of Tsukuba, Japan<br>
-Mark Van Moer,  UIUC, USA<br>
-Rhonda Vickery, DRC, USA<br>
-Jon Woodring,  Los Alamos National Lab, USA<br>
--->
 
 ## Posters Committee
 TBD
-
-<!--
-Sadaf Alam, Swiss National Supercomputing Center, Switzerland<br>
-Michela Becchi, North Carolina State University, USA<br>
-Marc Casas-Guix, Barcelona Supercomputing Center, Spain<br>
-Florina Ciorba, University of Basel, Switzerland<br>
-I-Hsin Chung, IBM Research, USA<br>
-Ewa Deelman, University of Southern California, USA<br>
-Ana Gainaru, Mellanox Technologies, USA<br>
-Maria Garzaran, University of Illinois at Urbana-Champaign, USA<br>
-Mike Gowanlock, Northern Arizona University, USA<br>
-Ryan E. Grant, Sandia National Laboratories, USA<br>
-Kate Isaacs, University of Arizona, USA<br>
-Nikhil Jain, Lawrence Livermore National Laboratory, USA<br>
-Ming Jiang, Lawrence Livermore National Laboratory, USA<br>
-Ana Jokanovic, Barcelona Supercomputing Center, USA<br>
-Che-Rung Lee, National Tsing Hua University, Taiwan<br>
-Misbah Mubarak, Argonne National Laboratory<br>
-Xiang Ni, IBM Research, USA<br>
-Boyana Norris, University of Oregon, USA<br>
-Seetharami Seelam, IBM Research, USA<br>
-Sameer Shende, University of Oregon, USA<br>
-Frederic Sutter, Ecole Normale Supérieure de Lyon, France<br>
--->

@@ -68,6 +68,8 @@ Giorgis Georgakoudis, Queen’s University Belfast
 
 
 ### Area 1: Application, Algorithms, and Libraries
+**Chair:** Harald Koestler, Friedrich-Alexander University Erlangen-Nürnberg, Germany
+
 Vadym Aizinger,  Alfred Wegener Institute, Germany  
 Engin Arslan,  University of Nevada,  Reno  
 Ariful Azad,  Lawrence Berkeley National Laboratory, USA  
@@ -108,6 +110,8 @@ Tobias Weinzierl,  Durham University, United Kingdom
 Rio Yokota,  Tokyo Institute of Technology, Japan  
 
 ### Area 2: Architecture, Network/Communications, and Management
+**Chair:** Masaaki Kondo, University of Tokyo, Japan
+
 Michela Becchi,  North Carolina State University, USA  
 Ivona Brandić,  University of Mainz, Austria  
 Andre Brinkmann,  Johannes Gutenberg-Universitaet Mainz, Germany  
@@ -130,6 +134,8 @@ Amelie Chi Zhou,  Shenzhen University, China
 Huiyang Zhou,  North Carolina State University, USA  
 
 ### Area 3: Programming and System Software
+**Chair:** Boyana Norris, University of Oregon, USA
+
 Amer Abdelhalim,  Argonne National Laboratory, USA  
 Marco Aldinucci,  University of Torino, Italy  
 Amy Apon,  Clemson University, USA  
@@ -160,6 +166,8 @@ Jia Zou,  Rice University, USA
 
 
 ### Area 4: Data, Storage, and Visualization
+**Chair:** Chandra Krintz, University of California, Santa Barbara, USA
+
 Gagan Agrawal,  Ohio State University, USA  
 Janine Bennett,  Sandia National Labs, USA  
 Elisa Bertino,  Purdue University, USA  

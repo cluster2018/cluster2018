@@ -133,13 +133,13 @@ compliant with the IEEE Xplore format for publication, submitted papers must
 conform to the following Xplore layout, page limit, and font size.
 
 
-<li>Submissions are required to be within <b>10 pages</b> (not counting references).</li>
-<li>Submissions must be single-spaced, 2-column numbered pages in <b>IEEE Xplore format</b> (8.5x11-inch paper, margins in inches -- top: 0.75, bottom: 1.0, sides:0.625, and between columns:0.25, main text: 10pt).</li>
-<li>Paper will <b>NOT</b> be reviewed double-blind.  Author names and affiliations should be included in the submitted paper, and appropriate citations of prior
-work must be included. </li>
-<li>LaTeX and Word Templates are available <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">here</a></li>
-<li>Only <b>web-based</b> submissions are allowed.</li>
-<li>Please submit your paper via <a href="Application-level performance and energy modeling and measurement">submission system</a></li>
+*  Submissions are required to be within <b>10 pages</b> (not counting references).
+*  Submissions must be single-spaced, 2-column numbered pages in <b>IEEE Xplore format</b> (8.5x11-inch paper, margins in inches -- top: 0.75, bottom: 1.0, sides:0.625, and between columns:0.25, main text: 10pt).
+*  Paper will <b>NOT</b> be reviewed double-blind.  Author names and affiliations should be included in the submitted paper, and appropriate citations of prior
+work must be included.
+*  LaTeX and Word Templates are available [here]("http://www.ieee.org/conferences_events/conferences/publishing/templates.html")
+*  Only <b>web-based</b> submissions are allowed.
+* Please submit your paper via **(link to be published soon)**
 
 
 ### Important dates:

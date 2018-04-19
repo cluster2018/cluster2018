@@ -137,9 +137,9 @@ conform to the following Xplore layout, page limit, and font size.
 *  Submissions must be single-spaced, 2-column numbered pages in <b>IEEE Xplore format</b> (8.5x11-inch paper, margins in inches -- top: 0.75, bottom: 1.0, sides:0.625, and between columns:0.25, main text: 10pt).
 *  Paper will <b>NOT</b> be reviewed double-blind.  Author names and affiliations should be included in the submitted paper, and appropriate citations of prior
 work must be included.
-*  LaTeX and Word Templates are available [here]("http://www.ieee.org/conferences_events/conferences/publishing/templates.html")
+*  LaTeX and Word Templates are available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 *  Only <b>web-based</b> submissions are allowed.
-* Please submit your paper via **(link to be published soon)**
+*  Please submit your paper via the [submission system](https://ssl.linklings.net/conferences/ieeecluster/)
 
 
 ### Important dates:

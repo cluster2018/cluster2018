@@ -18,7 +18,7 @@ the layout of your paper BEFORE submitting it to PDF eXpress™.
 
 * Papers must be single-spaced, 2-column numbered pages in **IEEE Xplore format**
 * Formatting Instructions: 8.5" x 11" x 2 columns
-[Latex/Word Templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
+[LaTeX/Word Templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 * Full/Short papers should not exceed 10/4 pages NOT counting references.
 * The camera-ready version should be uploaded via the link sent to you by email.
 * The hard deadline for submitting the camera-ready version of your paper is **TBD** <!--July 31st, 2017-->

@@ -108,6 +108,11 @@ Michela Taufer,  University of Delaware, USA
 Ramachandran (Vaidy) Vaidyanathan,  Louisiana State University, USA  
 Tobias Weinzierl,  Durham University, United Kingdom  
 Rio Yokota,  Tokyo Institute of Technology, Japan  
+Roland Haas, NCSA, University of Illinois Urbana-Champaign, USA  
+Johannes Langguth, Simula Research Laboratory, Norway  
+Armin Größlinger, University of Passau, Germany  
+Dirk Pflüger, Technical University of Munich, Germany  
+Min Si, Argonne National Laboratory, USA  
 
 ### Area 2: Architecture, Network/Communications, and Management
 **Chair:** Masaaki Kondo, University of Tokyo, Japan
@@ -177,7 +182,7 @@ Kalyana Chadalavada,  Intel, USA
 Alexandru Costan,  IRISA/INSA Rennes, France  
 Matthieu Dorier,  Argonne National Laboratory, USA  
 Ian Foster,  University of Chicago, USA  
-Jian Huang,  UIUC, USA  
+Jian Huang,  University of Illinois Urbana-Champaign, USA  
 Hai Jin,  Huazhong University of Science and Technology, China  
 Darrell Ling,  UC Santa Cruz, USA  
 Faisal Nawab,  UC Santa Cruz, USA  
@@ -187,7 +192,7 @@ David Pugmire,  Oak Ridge National Labs, USA
 Wolski Rich,  UC Santa Barbara, USA  
 Michael Schoettner,  University of Duesseldorf, Germany  
 Xuanhua Shi,  Huazhong University of Science and Technology, China  
-Robert Sisneros,  NCSA,  UIUC, USA  
+Robert Sisneros,  NCSA,  University of Illinois Urbana-Champaign, USA  
 Osamu Tatebe,  University of Tsukuba, Japan  
 Mark van Moer,  University of Illinois, USA  
 Jon Woodring,  LANL, USA  

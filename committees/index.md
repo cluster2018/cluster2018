@@ -178,7 +178,6 @@ Alexandru Costan,  IRISA/INSA Rennes, France
 Matthieu Dorier,  Argonne National Laboratory, USA  
 Ian Foster,  University of Chicago, USA  
 Jian Huang,  UIUC, USA  
-Florin Isaila,  Universidad Carlos III, Spain  
 Hai Jin,  Huazhong University of Science and Technology, China  
 Darrell Ling,  UC Santa Cruz, USA  
 Faisal Nawab,  UC Santa Cruz, USA  

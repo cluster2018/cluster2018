@@ -144,13 +144,12 @@ work must be included.
 
 ### Important dates:
 
-<!--<li>Abstract deadline: <b>May 10th, 2017 (Hard Deadline)</b></li>-->
-<li>Abstract deadline: <b>May 1st 2018</b></li>
-<li>Full Papers due: <b>May 8th 2018 (this is a hard deadline; no extensions are anticipated)</b></li>
-<li>Paper Acceptance Notification: <b>July 3rd 2018</b></li>
-<li>Camera-ready deadline: <b>July 31st 2018</b></li>
-<li>Conference: <b>September 10-13 2018</b></li>
-<li>Deadlines are <a href="http://www.timeanddate.com/time/zones/aoe">Anywhere on Earth (AoE)</a></li>
+*  Abstract deadline: **May 1st 2018**
+*  Full Papers due: **~~May 8th 2018~~ (<span style="color:red">Extended: May 18th 2018</span>)**
+*  Paper Acceptance Notification: **July 3rd 2018**
+*  Camera-ready deadline: **July 31st 2018**
+*  Conference: **September 10-13 2018**
+*  Deadlines are <a href="http://www.timeanddate.com/time/zones/aoe">Anywhere on Earth (AoE)</a>
 
 ### Organizers
 
@@ -164,10 +163,10 @@ work must be included.
 <!--
 #### Area Chairs
 
-<li>Michela Taufer, University of Delaware, USA and Aparna Chandramowlishwaran, University of California, Irvine (Area 1)</li>
-<li>Frank Mueller, North Carolina State University, USA (Area 2)</li>
-<li>Kenjiro Taura, University of Tokyo, Japan (Area 3)</li>
-<li>Maria Pérez, Universidad Politécnica de Madrid, Spain and Robert Sisneros, UIUC, USA (Area 4)</li>
+*  Michela Taufer, University of Delaware, USA and Aparna Chandramowlishwaran, University of California, Irvine (Area 1)
+*  Frank Mueller, North Carolina State University, USA (Area 2)
+*  Kenjiro Taura, University of Tokyo, Japan (Area 3)
+*  Maria Pérez, Universidad Politécnica de Madrid, Spain and Robert Sisneros, UIUC, USA (Area 4)
 -->
 
 

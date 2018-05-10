@@ -11,7 +11,7 @@ header:
    permalink: "/contact/"
 ---
 
-## 4th International Workshop on Fault Tolerant Systems (FTS)
+## [4th International Workshop on Fault Tolerant Systems (FTS)](https://fts-workshop.github.io/fts18/)
 
 Fault Tolerance is a cross-cutting issue that spans all layers of the
 hardware/software stack, and hence, requires coupled improvements in each layer

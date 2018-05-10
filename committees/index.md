@@ -14,55 +14,49 @@ header:
 # Organizing Committee
 
 ## General Co-Chairs
-Dimitrios Nikolopoulos, Queen’s University Belfast
-
-Bronis R de Supinski, Queen's University Belfast
+Dimitrios Nikolopoulos, Queen’s University Belfast, UK  
+Bronis R de Supinski, Queen's University Belfast, UK  
 
 ## Technical Program
 
 ### Program Chair
-Paul Kelly, Imperial College London
+Paul Kelly, Imperial College London, UK  
 
 ### Publications Chair
-Ana Lucia Varbanescu, University of Amsterdam
+Ana Lucia Varbanescu, University of Amsterdam, Netherlands  
 
 ### Workshops and Tutorials Chair 
-Rosa Badia, Barcelona Supercomputing Centre
+Rosa Badia, Barcelona Supercomputing Centre, Spain  
 
 ### Posters Chair
-Dong Li, University of California, Merced
+Dong Li, University of California, Merced, USA  
 
 ### Panels Chair
-Laura Grigori, INRIA
+Laura Grigori, INRIA, France  
 
 ### Student Programs Chair
-Kenneth B. Kent, University of New Brunswick, Canada
+Kenneth B. Kent, University of New Brunswick, Canada  
 
 ## Logistics
 
 ### Finance Chair
-Hans Vandierendonck, Queen’s University Belfast
+Hans Vandierendonck, Queen’s University Belfast, UK  
 
 ### Publicity Co-Chairs 
-Antoniu Pop, University of Manchester
-
-Brett Becker, University College Dublin
-
-Rong Ge, Clemson University
-
-Guangmin Tan, Chinese Academy of Sciences
+Antoniu Pop, University of Manchester, UK  
+Brett Becker, University College Dublin, Ireland  
+Rong Ge, Clemson University, USA  
+Guangmin Tan, Chinese Academy of Sciences, China  
 
 ### Student Travel Grants Chair
-Amanda Randles, Duke University
+Amanda Randles, Duke University, USA  
 
 ### Sponsors Co-Chairs 
-David Gregg, Trinity College Dublin
-
-Angelos Bilas, FORTH-ICS and University of Crete
+David Gregg, Trinity College Dublin, Ireland  
+Angelos Bilas, FORTH-ICS and University of Crete, Greece  
 
 ### Web Chair 
-Giorgis Georgakoudis, Queen’s University Belfast
-
+Giorgis Georgakoudis, Queen’s University Belfast, UK  
 
 ## Technical Program Committee
 
@@ -85,7 +79,6 @@ Christian Engwer,  University of Muenster, Germany
 Trilce Estrada,  University of New Mexico, USA  
 Rafael Ferreira da Silva,  University of Southern California, USA  
 Rong Ge,  Clemson University, USA  
-Kartik Gopalan,  Binghamton University, USA  
 Travis Johnston,  University of Delaware, USA  
 Volodymyr Kindratenko,   of Illinios, USA  
 Hatem Ltaief,  KAUST, Saudi Arabia  
@@ -116,6 +109,8 @@ Min Si, Argonne National Laboratory, USA
 Bertil Schmidt, University of Mainz, Germany  
 Istvan Reguly, Pázmány Péter Catholic University, Hungary  
 Freddie Witherden, Imperial College London, UK  
+Richard Veras, Louisiana State University, USA  
+Gihan Mudalige, University of Warwick, UK  
 
 
 ### Area 2: Architecture, Network/Communications, and Management
@@ -201,7 +196,9 @@ Osamu Tatebe,  University of Tsukuba, Japan
 Mark van Moer,  University of Illinois, USA  
 Jon Woodring,  LANL, USA  
 Lukas Rupprecht, IBM, USA  
-
+Martin Strohbach, AGT International, Switzerland  
+Zhengyu Yang, Northeastern University, USA  
+Alex Sim, Lawrence Berkeley National Laboratory, USA  
 
 ## Posters Committee
 Michela Becchi, North Carolina State University, USA  

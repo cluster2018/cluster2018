@@ -17,10 +17,10 @@ industry professionals to present their latest research findings and
 works-in-progress in all aspects of cluster, cloud, and grid technologies in
 the form of posters, which will be included in the conference proceedings.
 
-The topics of interest are the same as in the <a
-href="https://cluster2018.github.io/technical">Call for Papers</a>.
+The topics of interest are the same as in the
+[Call for Papers.](https://easychair.org/conferences/?conf=clusterposter2018)
 
-<h2>Submissions</h2>
+## Submissions
 
 Participants must submit a 2-page extended abstract (including references)
 describing the poster content, and the research ideas in the poster. If
@@ -31,14 +31,11 @@ available on the conference website.
 
 The extended abstract should be structured similar to a technical paper, and
 may not exceed 2 letter-sized (8.5 x 11) pages including figures, tables and
-references using the <a
-href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE
-format</a> for conference proceedings (PDF, single-spaced, double column, 10pt
-text).
+references using the
+[IEEE format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)
+for conference proceedings (PDF, single-spaced, double column, 10pt text).
 
-Please submit your poster via the <a
-href="https://easychair.org/conferences/?conf=ieeecluster2018">submission
-system</a>.
+Please submit your poster via the [submission system.](https://easychair.org/conferences/?conf=clusterposter2018)
 
 <h3>Important Dates</h3>
 
@@ -48,6 +45,5 @@ system</a>.
 <h4>Posters Chair</h4>
 Dong Li, University of California, Merced
 
-Complete posters committee list is available <a
-href="https://cluster2018.github.io/committees">here</a>.
+Complete posters committee list is available [here.](https://cluster2018.github.io/committees)
 

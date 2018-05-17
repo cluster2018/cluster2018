@@ -203,14 +203,15 @@ Alex Sim, Lawrence Berkeley National Laboratory, USA
 ## Posters Committee
 Michela Becchi, North Carolina State University, USA  
 Xiang Ni, IBM, USA  
-Ming Zhao,    Arizona State University, USA  
-Ignacio Laguna Peralta,      Lawrence Livermore National Lab, USA  
-Nathan DeBardeleben,      Los Alamos National Lab, USA  
-Jidong Zhai,               Tsinghua University, China  
-Roberto Gioiosa,      Oak Ridge National Lab, USA  
-Yonghong Yan,      University of South Carolina, USA  
-Kento Sato,           Lawrence Livermore National Lab, USA  
-Naoya Maruyama,   Lawrence Livermore National Lab, USA  
-Sudharshan Vazhkudai,    Oak Ridge National Lab, USA  
-Di Sheng,            Argonne National Lab, USA  
-Min Li,           IBM Almaden Research Center, USA  
+Ming Zhao, Arizona State University, USA  
+Ignacio Laguna Peralta, Lawrence Livermore National Lab, USA  
+Nathan DeBardeleben, Los Alamos National Lab, USA  
+Jidong Zhai, Tsinghua University, China  
+Roberto Gioiosa, Oak Ridge National Lab, USA  
+Yonghong Yan, University of South Carolina, USA  
+Kento Sato, Lawrence Livermore National Lab, USA  
+Naoya Maruyama, Lawrence Livermore National Lab, USA  
+Sudharshan Vazhkudai, Oak Ridge National Lab, USA  
+Di Sheng, Argonne National Lab, USA  
+Min Li, IBM Almaden Research Center, USA  
+Guoyang Chen, Alibaba, USA  

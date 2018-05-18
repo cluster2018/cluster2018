@@ -37,12 +37,13 @@ for conference proceedings (PDF, single-spaced, double column, 10pt text).
 
 Please submit your poster via the [submission system.](https://easychair.org/conferences/?conf=clusterposter2018)
 
-<h3>Important Dates</h3>
+### Important Dates
 
- * <b>Submission deadline (extended): TBD <!--July 5, 2017 (AoE)--></b>
- * Acceptance notification: TBD <!--July 26, 2017 (AoE)-->
+ * **Poster Submission deadline:** July 6, 2018
+ * **Notification of Acceptance:** July 25, 2018
+ * **Camera ready:** August 3, 2018
 
-<h4>Posters Chair</h4>
+#### Posters Chair
 Dong Li, University of California, Merced
 
 Complete posters committee list is available [here.](https://cluster2018.github.io/committees)

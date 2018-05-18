@@ -43,19 +43,19 @@ expenses submitted by the student. Both graduate and undergraduate students can
 apply.
 
 ## Submission Guidelines
-Please submit your application via the EasyChair submission system.
+Please submit your application via the [submission system.](https://ssl.linklings.net/conferences/ieeecluster/?page=Submit&id=StudentApplication&site=ieeecluster2018)
 
 ## Important Dates 
-Applications will be reviewed starting June 2018.
+Applications will be reviewed starting July 3, 2018.
 
 Travel awards for students in USA institutions in the amount of up to $1,000
 will be assigned on a first-come, first-serve basis until completion of the
 available funding.
 
 We will accept applications for the student mentoring program with NSF travel
-support (when applicable) until August 1st (deadline for early registration).
-Applications submitted after Aug 1st will be still considered for the student
-mentoring program but will not be considered for travel support.
+support (when applicable) until July 3, 2018.  Applications submitted after
+July 3, 2018, but prior to August 1, 2018, will be still considered for the
+student mentoring program but will not be considered for travel support.
 
 
 Student Mentoring Chair:

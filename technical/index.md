@@ -146,7 +146,7 @@ work must be included.
 
 *  Abstract deadline: **May 1st 2018**
 *  Full Papers due: **~~May 8th 2018~~ <span style="color:red">Extended: May 18th 2018</span> (no abstract registration needed)**
-*  Paper Acceptance Notification: **July 3rd 2018**
+*  Paper Acceptance Notification: **July 7th 2018**
 *  Camera-ready deadline: **July 31st 2018**
 *  Conference: **September 10-13 2018**
 *  Deadlines are <a href="http://www.timeanddate.com/time/zones/aoe">Anywhere on Earth (AoE)</a>

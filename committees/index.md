@@ -155,7 +155,6 @@ Dieter Kranzlmueller,  Ludwig-Maximilians-Universität München, Germany
 Sriram Krishnamoorthy,  PNNL, USA  
 Zhiling Lan,  Illinois Institute of Technology, USA  
 Dong Li,  University of California,  Merced  
-Hatem Ltaief,  KAUST, Saudi Arabia  
 Abid Malik,  Brookhaven National Lab,  Select your Organization  
 Catherine Olschanowsky,  Boise State University, USA  
 Miquel Pericàs,  Chalmers University of Technology, Sweden  

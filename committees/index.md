@@ -198,6 +198,7 @@ Lukas Rupprecht, IBM, USA
 Martin Strohbach, AGT International, Switzerland  
 Zhengyu Yang, Northeastern University, USA  
 Alex Sim, Lawrence Berkeley National Laboratory, USA  
+Jiayin	Wang, Montclair State University, USA  
 
 ## Posters Committee
 Michela Becchi, North Carolina State University, USA  

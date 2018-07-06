@@ -31,7 +31,7 @@ The student’s adviser should endorse the student’s application and will be
 contacted once the application is submitted.
 
 ## Student travel awards - for students at U.S. institutions
-Pending National Science Foundation approval, several travel awards will be
+Thanks to the National Science Foundation, several travel awards will be
 available for students enrolled in US institutions and participating in the
 Student Mentoring Program at the IEEE Cluster 2018 conference. Students with
 accepted papers in the main conference track or in workshops, or students with

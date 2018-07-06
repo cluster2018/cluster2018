@@ -39,7 +39,7 @@ Please submit your poster via the [submission system.](https://easychair.org/con
 
 ### Important Dates
 
- * **Poster Submission deadline:** July 6, 2018
+ * **Poster Submission deadline:**~~July 6, 2018~~ <span style="color:red">Extended: July 10, 2018 (anywhere on earth) </span> (**firm deadline**)
  * **Notification of Acceptance:** July 25, 2018
  * **Camera ready:** August 3, 2018
 

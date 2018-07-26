@@ -54,7 +54,7 @@ available funding.
 
 We will accept applications for the student mentoring program with NSF travel
 support (when applicable) until July 23, 2018.  Applications submitted after
-July 23, 2018, but prior to August 1, 2018, will be still considered for the
+July 23, 2018, but prior to ~~August 1, 2018~~ <span style="color:red">August 8, 2018</span>, will be still considered for the
 student mentoring program but will not be considered for travel support.
 
 

@@ -61,9 +61,7 @@ Standard Room: £129 (single)/£139 (double) B&B per night
 
 Deluxe Room: £139 (single)/£149 (double) B&B per night
 
-To reserve a room visit:
-
-[https://secure3.hilton.com/en\_US/hi/reservation/book.htm?execution=e2s1](https://secure3.hilton.com/en_US/hi/reservation/book.htm?execution=e2s1)
+Discount code: GQUBA
 
 ### [Holiday Inn Belfast City Centre](https://www.ihg.com/holidayinn/hotels/gb/en/belfast/bfsas/hoteldetail)
 Room: £99 (single)/£109 (double) B&B per night

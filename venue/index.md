@@ -61,7 +61,7 @@ Standard Room: £129 (single)/£139 (double) B&B per night
 
 Deluxe Room: £139 (single)/£149 (double) B&B per night
 
-Discount code: GQUBA
+Discount code: GQUBA (cut-off date for discount rates is Friday 03 August 2018)
 
 ### [Holiday Inn Belfast City Centre](https://www.ihg.com/holidayinn/hotels/gb/en/belfast/bfsas/hoteldetail)
 Room: £99 (single)/£109 (double) B&B per night

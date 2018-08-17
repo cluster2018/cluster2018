@@ -90,7 +90,7 @@ share important discoveries and lessons learned from these applications.
 * Tom Scogland, Lawrence Livermore National Labs, US
 * David Beckingsale, Lawrence Livermore National Labs, US
 
-## Re-Emergence of Vector Architectures Workshop (Rev-A)
+## [Re-Emergence of Vector Architectures Workshop (Rev-A)](https://rev-a.github.io/)
 
 The commoditization of high performance computing to a broader range of
 applications coupled with the reduction in performance improvement from

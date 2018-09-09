@@ -25,7 +25,7 @@ and several exquisite stain glass windows.  Following an £8million
 refurbishment in 2010, the facility offers state-of-the-art technology in a
 historically rich environment.
 
-## Hotel Accomodation
+## Hotel Accommodation
 
 There is a range of accommodation available in Belfast, to suit all budgets and
 tastes.  Rooms have been held at the below hotels in the city centre, which are

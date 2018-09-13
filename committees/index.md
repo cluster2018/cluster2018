@@ -80,7 +80,7 @@ Trilce Estrada,  University of New Mexico, USA
 Rafael Ferreira da Silva,  University of Southern California, USA  
 Rong Ge,  Clemson University, USA  
 Travis Johnston,  University of Delaware, USA  
-Volodymyr Kindratenko,   of Illinios, USA  
+Volodymyr Kindratenko, NCSA, University of Illinois Urbana-Champaign, USA  
 Hatem Ltaief,  KAUST, Saudi Arabia  
 Piotr Luszczek,  University of Tennessee,  Innovative Computing Laboratory  
 Maciej Malawski,  AGH University of Science and Technology, Poland  
